@@ -1,8 +1,8 @@
-Maji Ndogo Water Access – Power BI Analysis
+**Maji Ndogo Water Access – Power BI Analysis**
 
 This repository contains a comprehensive Power BI project analyzing water accessibility challenges in Maji Ndogo, a region experiencing significant water shortages. The goal of the project was to deliver actionable insights to support decision-makers in improving water access, prioritizing interventions, and allocating budget effectively.
 
-📊 Project Overview
+**📊 Project Overview**
 
 Maji Ndogo faces increasing pressure on its water infrastructure due to population growth, limited clean water sources, long queue times, and failing taps. This analysis evaluates:
 
@@ -18,7 +18,7 @@ Budget allocation and projected impact once improvements are completed
 
 The insights support optimising infrastructure investment and improving water service delivery across the region.
 
-🧠 Key Insights Generated
+**🧠 Key Insights Generated**
 ✔️ 1. Only 34% of the population currently has access to basic water services
 
 The dashboard highlights low baseline access and identifies key drivers of water insecurity, especially in rural communities.
@@ -39,13 +39,13 @@ Both provinces consume over £40M each, driven by extensive drilling and install
 
 Rural areas require more intensive solutions, which dramatically increases costs compared to urban improvements.
 
-📁 Files in This Repository
+**📁 Files in This Repository**
 
 integrated-project-2.pbix — Full Power BI report
 
 README.md — Documentation and insights
 
-resources/ (optional)
+resources/ 
 
 Dashboard screenshots
 
@@ -53,7 +53,7 @@ Data model image
 
 DAX measures
 
-🛠 Tools & Skills Demonstrated
+**🛠 Tools & Skills Demonstrated**
 
 Power BI Desktop
 
@@ -69,36 +69,20 @@ Insight generation & reporting
 
 Budget and cost analysis
 
-📈 Key KPIs in the Report
+**📈 Key KPIs in the Report**
 KPI	Description
 34%	Current % population with basic water access
 +64% improvement	Projected % increase once upgrades are completed
 $146.7M Total Budget	Total projected spend on water infrastructure
 Improvement counts	Number and type of interventions required
 Cost by province	Total cost of improvements by region
-📍 Dashboard Preview
 
-(Add this screenshot to your repo as /resources/dashboard.png)
-
-
-🔍 Analysis Highlights
-Water Access Gaps
-
+**🔍 Analysis Highlights**
+Water Access Gaps:
 Rural residents face the most severe shortages, with shared taps and wells requiring major infrastructure improvements.
 
-Budget Prioritisation
-
+Budget Prioritisation:
 The analysis informs where investment will have the highest impact and which provinces need accelerated intervention.
 
-Projected Outcomes
-
+Projected Outcomes:
 With a budget of ~$147M, the model predicts a significant improvement in water access — particularly if efforts focus on shared taps and rural communities.
-
-📬 Contact
-
-If you'd like to see the live Power BI file or discuss the analysis:
-
-Hellen Amimo
-📌 Data Analyst
-🔗 LinkedIn: [add link]
-💻 Portfolio / GitHub: [add link]
